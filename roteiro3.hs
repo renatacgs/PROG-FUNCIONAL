@@ -34,7 +34,7 @@ distancia::(Float,Float)->(Float,Float)->Float
 distancia (x,y)(x1,y1) = sqrt(((x1-x)^2)+((y1-y)^2))
 
 -- Exercício 3 --
-{-}
+{-
 1:[2,3,4] -- [1,2,3,4] --
 'a':['b','c','d'] -- "abcd" --
 head [1,2,3] -- 1 --
